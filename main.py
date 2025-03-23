@@ -15,7 +15,7 @@ GENERATE_AUDIO_URL = "https://api.play.ht/api/v2/tts/stream"
 
 # Your credentials
 USER_ID = "zgP3qhiWV3Ul5zWbsWPDnwATBNw2"
-API_KEY = "ak-7dd75f1024144c3186d7a26fbb0d909f"
+API_KEY = "ak-97581a5f987c4d5cbe1ce8ff0e6fd77a"
 
 # Create a folder for storing audio files
 AUDIO_FOLDER = "generated_audio"
